@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcalculate",
+        "uuid": 5498350,
+        "checksum": "0tz7ud"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
